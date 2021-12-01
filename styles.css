@@ -11,7 +11,9 @@ a {
 }
 
 h1,
-h2 {
+h2,
+p,
+ul {
   text-align: center;
 }
 
