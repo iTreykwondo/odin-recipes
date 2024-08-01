@@ -2,7 +2,7 @@
 
 A simple recipes site! This is the first project on The Odin Project.
 
-- [Live Website](https://itreykwondo.github.io/sign-up-form/)
+- [Live Website](https://itreykwondo.github.io/odin-recipes/)
 
 ## Technologies Used
 
